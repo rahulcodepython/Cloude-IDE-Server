@@ -26,16 +26,24 @@ Ensure the following are installed on your system:
 Follow these steps to set up and run the Cloude-IDE-Server:
 
 1. Clone the repository:
-   ```git clone https://github.com/rahulcodepython/Cloude-IDE-Server.git ```
+   ```sh
+   git clone https://github.com/rahulcodepython/Cloude-IDE-Server.git
+   ```
 
-2. Navigate to the project directory:
-   ```cd Cloude-IDE-Server```
+3. Navigate to the project directory:
+   ```sh
+   cd Cloude-IDE-Server
+   ```
 
-3. Install the dependencies:
-   ```npm i```
+5. Install the dependencies:
+   ```sh
+   npm i
+   ```
 
-4. Start the server using nodemon:
-   ```nodemon index.js```
+7. Start the server using nodemon:
+   ```sh
+   nodemon index.js
+   ```
 
 ## Technologies Used
 
